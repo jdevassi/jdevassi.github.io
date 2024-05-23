@@ -1,13 +1,13 @@
 body {
     color: white;
-    background-color: #070a2d;
+    background-color:#202D5E;
     font-family: 'Courier New', monospace;
     font-size: 16px;
    }
    
    .topnav {
      overflow: hidden;
-     background-color: #333;
+     background-color: #6C9473;
    }
    
    .topnav a {
@@ -45,4 +45,5 @@ body {
      font-size: 14px;
      padding: 0 12px;
      float: left;
+     color: #BDF1F4;
    }
