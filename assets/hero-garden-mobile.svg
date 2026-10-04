@@ -1,0 +1,24 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0. Original vector illustration; no external assets. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 760" fill="none">
+  <defs>
+    <linearGradient id="stem" x1="365" y1="710" x2="365" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#587c65"/><stop offset=".28" stop-color="#d99956"/><stop offset=".53" stop-color="#cb7455"/><stop offset=".76" stop-color="#7e8397"/><stop offset="1" stop-color="#7e9b83"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 667c82-34 123-19 185-44 67-27 112-43 205-10v107H0v-53Z" fill="#93ac9a" fill-opacity=".32"/>
+  <path d="M253 740c34-74 76-112 137-138v138H253Z" fill="#617f6b" fill-opacity=".26"/>
+  <!-- Three small rainbow-bamboo culms along the right edge. -->
+  <g opacity=".72">
+    <path d="M312 740c-10-106-3-215 31-365l21 3c-22 158-22 260-17 362h-35Z" fill="url(#stem)"/>
+    <path d="M311 653c15 4 30 5 45 4M312 558c15 4 31 5 46 5M324 463c13 4 27 6 42 7" stroke="#fef1eb" stroke-opacity=".75" stroke-width="4"/>
+    <path d="M352 738c3-120 12-221 32-326l18 4v322h-50Z" fill="#7d9a80"/>
+    <path d="M353 641c15 5 31 7 47 8M358 548c14 5 29 8 44 9" stroke="#fef1eb" stroke-opacity=".7" stroke-width="4"/>
+    <path d="M326 519c-62-42-93-47-139-34 34-43 86-42 153 10-45-68-74-94-128-105 67-8 114 43 114 129Z" fill="#52775f"/>
+    <path d="M334 590c52-56 84-74 132-69-38-37-89-27-139 44 32-77 56-106 104-132-60 9-99 64-97 157Z" fill="#9a9d6d"/>
+    <path d="M369 690c-75-28-112-26-160-1 31-47 88-55 170-4-63-62-99-81-157-84 67-20 127 19 147 89Z" fill="#d78964"/>
+  </g>
+  <g opacity=".55" fill="#e0b13c">
+    <circle cx="294" cy="453" r="5"/><circle cx="276" cy="439" r="3"/><circle cx="305" cy="432" r="3"/>
+    <circle cx="357" cy="399" r="7"/><circle cx="372" cy="387" r="4"/><circle cx="341" cy="385" r="4"/>
+  </g>
+</svg>
