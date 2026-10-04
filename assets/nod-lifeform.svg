@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 190" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Floating alien seed form</title>
+  <desc id="desc">An abstract, leaf-like organism glides through the air, trailing fine filaments and tiny amber spores.</desc>
+  <defs>
+    <linearGradient id="body" x1="79" y1="147" x2="224" y2="43" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#78988A"/>
+      <stop offset="1" stop-color="#B6C4A6"/>
+    </linearGradient>
+    <linearGradient id="fin" x1="133" y1="132" x2="204" y2="73" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D8956B" stop-opacity=".78"/>
+      <stop offset="1" stop-color="#EBC79A" stop-opacity=".55"/>
+    </linearGradient>
+  </defs>
+  <g stroke="#6C8976" stroke-linecap="round" stroke-width="2">
+    <path d="M96 119C62 114 43 94 28 68c-8-13-17-21-27-25"/>
+    <path d="M106 135C72 142 46 137 20 122 11 117 6 116 1 117"/>
+    <path d="M112 147c-26 20-53 26-83 23-10-1-18 0-26 4"/>
+    <path d="M106 107c-18-20-26-41-26-64 0-12-3-22-9-32"/>
+  </g>
+  <g fill="#D4A344">
+    <circle cx="27" cy="68" r="3.5"/><circle cx="19" cy="122" r="3"/>
+    <circle cx="28" cy="145" r="4"/><circle cx="71" cy="11" r="3"/>
+  </g>
+  <path d="M91 121c12-27 31-53 59-70 26-16 56-21 85-15-9 26-25 50-48 69-24 20-55 33-89 36-13 1-18-7-7-20Z" fill="url(#body)"/>
+  <path d="M112 136c17-23 44-43 73-53 14-5 29-7 44-7-13 21-31 40-54 54-20 13-42 21-65 26-10 2-13-9 2-20Z" fill="url(#fin)"/>
+  <path d="M111 126c33-23 69-39 111-47" stroke="#F7E8C6" stroke-linecap="round" stroke-width="2" opacity=".9"/>
+  <path d="M142 99c-1-14 5-25 17-33 4 11 2 21-7 30 12-5 23-5 34 1-10 9-21 11-33 7 8 8 12 18 10 30-12-6-19-16-21-30-5 12-13 19-25 21 2-12 10-21 25-26Z" fill="#D76547"/>
+  <circle cx="232" cy="35" r="5" fill="#DBAD47"/>
+  <circle cx="250" cy="45" r="2.5" fill="#D76547"/>
+  <circle cx="244" cy="22" r="2.5" fill="#78988A"/>
+</svg>
